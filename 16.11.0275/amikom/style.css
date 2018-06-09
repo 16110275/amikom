@@ -1,0 +1,17 @@
+body {
+	color:green;
+	font-size: 35px;
+}
+#judul{
+	font-family: verdana;
+	font-size: 35px;
+	color: black;
+}
+.konten{
+	font-size: 20px;
+	font-family: arial;
+}
+.citra{
+	align:center;
+	width: 200px;
+}
